@@ -1,7 +1,5 @@
 # 🚀 Cabinet Tracker Pro
 
-![Cabinet Tracker Pro Presentation](Assets/presentation.png)
-
 **Cabinet Tracker Pro**, endüstriyel kabin yönetimi ve ağ bağlantı takibi için geliştirilmiş, yüksek performanslı ve premium tasarımlı bir masaüstü uygulamasıdır.
 
 ---
